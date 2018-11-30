@@ -76,7 +76,7 @@ KSFE-Konferenz 07.-08. März 2019 in Berlin <br> <https://ksfe-ev.de/2019/>
 
 ---
 
-###### Sasensei Lua quizz
+###### Sasensei quizz (with SAS Viya questions!)
 
 <https://sasensei.com/test/118>
 
