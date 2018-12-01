@@ -88,7 +88,7 @@ KSFE-Konferenz 07.-08. März 2019 in Berlin <br> <https://ksfe-ev.de/2019/>
 
 Tell us several sentences about:
 
-- You could start from your name :)
+- You could start from your name 😊
 - Where do you work?
 - What kind of things do you do?
 - What is your intereset in SAS software?
